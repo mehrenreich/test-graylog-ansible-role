@@ -1,3 +1,6 @@
 *.log
 roles/*
+!roles/.gitkeep
 .vagrant
+*.iml
+.idea
